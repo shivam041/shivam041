@@ -16,11 +16,11 @@
 
 <h2>💼 Professional Experience</h2>
 
-<h3>AI Engineer Intern @ Outlier AI</h3>
+<h3>AI Trainer @ Outlier AI</h3>
 <ul>
-  <li>Implemented ML models achieving 60% improvement in anomaly detection</li>
-  <li>Developed data processing pipelines using Python and AWS</li>
-  <li>Optimized system performance through efficient algorithm implementation</li>
+  <li>Evaluated and ranked AI-generated code in languages such as Python, Java, and C++, ensuring quality</li>
+  <li>Partnered with Outlier to enhance cutting-edge generative AI models by providing expert feedback</li>
+  <li>Leveraged strong technical knowledge to articulate complex concepts clearly</li>
 </ul>
 
 <h3>Undergraduate Research Assistant @ Rutgers University</h3>
@@ -88,7 +88,7 @@
 <h2>📫 Let's Connect</h2>
 <p>
   <a href="https://linkedin.com/in/yourprofile">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img src="https://www.linkedin.com/in/shivam-patel-1a9b2625a/?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
   <a href="mailto:shivamkp57@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
