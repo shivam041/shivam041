@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <h1 align="center">Hi 👋, I'm Shivam Patel</h1>
 <h3 align="center">A passionate Software Engineer and AI enthusiast from New Jersey</h3>
 
