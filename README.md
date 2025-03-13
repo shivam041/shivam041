@@ -9,7 +9,7 @@
 <p>
   <strong>Rutgers University-New Brunswick</strong><br>
   B.S. Computer Science & Data Science (Expected May 2026)<br>
-  Relevant Coursework: Data Structures, Algorithms, Machine Learning, Database Management
+  Relevant Coursework: Data Structures and Algorithms, Machine Learning, Database Management, Software Methodology, Computer Architechture, Linear Algebra, and Discrete Mathematics 
 </p>
 
 <h2>💼 Professional Experience</h2>
