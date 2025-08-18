@@ -93,4 +93,4 @@
   </a>
 </p>
 
-<p align="center">Currently seeking Summer 2025 internship opportunities in Software Engineering and Data Science roles!</p>
+<p align="center">Currently seeking Summer 2026 full time opportunities in Software Engineering and Data Science roles!</p>
