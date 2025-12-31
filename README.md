@@ -15,7 +15,7 @@
 <h2>💼 Professional Experience</h2>
 
 <h3>Full Stack Intern @ Glazer Capital</h3>
-<p><em>Feb 2025 – May 2025 | New York City, NY</em></p>
+<p>Feb 2025 – May 2025 | New York City, NY</p>
 <ul>
   [cite_start]<li>Architected a React/MUI and Django REST framework platform for real-time monitoring of merger arbitrage and SPAC positions[cite: 7].</li>
   [cite_start]<li>Engineered a real-time data processing pipeline using <strong>Django Channels WebSockets</strong> for instant price updates, reducing market risk via immediate P&L visibility[cite: 8].</li>
