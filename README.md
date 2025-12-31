@@ -8,8 +8,8 @@
 <h2>🎓 Education</h2>
 <p>
   <strong>Rutgers University-New Brunswick</strong><br>
-  B.S. [cite_start]Computer Science & Data Science (Expected May 2026) [cite: 35, 36]<br>
-  [cite_start]Relevant Coursework: Data Structures & Algorithms, Machine Learning, Design and Analysis of Algorithms, Software Methodology, Statistical Learning, and Computer Architecture [cite: 37]
+  B.S. Computer Science & Data Science (Expected May 2026) <br>
+  Relevant Coursework: Data Structures & Algorithms, Machine Learning, Design and Analysis of Algorithms, Software Methodology, Statistical Learning, and Computer Architecture [cite: 37]
 </p>
 
 <h2>💼 Professional Experience</h2>
@@ -17,58 +17,58 @@
 <h3>Full Stack Intern @ Glazer Capital</h3>
 <p>Feb 2025 – May 2025 | New York City, NY</p>
 <ul>
-  [cite_start]<li>Architected a React/MUI and Django REST framework platform for real-time monitoring of merger arbitrage and SPAC positions[cite: 7].</li>
-  [cite_start]<li>Engineered a real-time data processing pipeline using <strong>Django Channels WebSockets</strong> for instant price updates, reducing market risk via immediate P&L visibility[cite: 8].</li>
-  [cite_start]<li>Built customizable dashboard interfaces using <strong>Material React Table</strong> and <strong>TailwindCSS</strong>, improving decision-making efficiency by 40%[cite: 9].</li>
+  <li>Architected a React/MUI and Django REST framework platform for real-time monitoring of merger arbitrage and SPAC positions[cite: 7].</li>
+  <li>Engineered a real-time data processing pipeline using <strong>Django Channels WebSockets</strong> for instant price updates, reducing market risk via immediate P&L visibility[cite: 8].</li>
+  <li>Built customizable dashboard interfaces using <strong>Material React Table</strong> and <strong>TailwindCSS</strong>, improving decision-making efficiency by 40%[cite: 9].</li>
 </ul>
 
 <h3>Data Analysis Intern @ Toledo Finance</h3>
 <p><em>Feb 2024 – May 2024 | New York City, NY</em></p>
 <ul>
-  [cite_start]<li>Developed data-driven solutions by building automated pipelines between disparate data sources using <strong>Python and SQL</strong>[cite: 16].</li>
-  [cite_start]<li>Optimized operations through reproducible protocols and <strong>KPI dashboards</strong> for carrier payables and demographic tracking[cite: 17].</li>
-  [cite_start]<li>Implemented <strong>ETL frameworks</strong> to translate complex financial datasets into actionable insights for stakeholders[cite: 18].</li>
+  <li>Developed data-driven solutions by building automated pipelines between disparate data sources using <strong>Python and SQL</strong>[cite: 16].</li>
+  <li>Optimized operations through reproducible protocols and <strong>KPI dashboards</strong> for carrier payables and demographic tracking[cite: 17].</li>
+  <li>Implemented <strong>ETL frameworks</strong> to translate complex financial datasets into actionable insights for stakeholders[cite: 18].</li>
 </ul>
 
 <h3>Undergraduate Research Assistant @ Rutgers University</h3>
 <p><em>May 2023 – Dec 2023 | New Brunswick, NJ</em></p>
 <ul>
-  [cite_start]<li>Implemented a Python-based <strong>Conditional Associative Accuracy model</strong> using statistical algorithms, improving processing efficiency by 25%[cite: 11].</li>
-  [cite_start]<li>Performed statistical analyses on 15+ behavioral experiments using <strong>Pandas, NumPy, and R</strong> to refine predictive accuracy by up to 40%[cite: 12].</li>
-  [cite_start]<li>Executed probabilistic source-memory modeling to analyze human cognitive processes and recognition tasks[cite: 13].</li>
+  <li>Implemented a Python-based <strong>Conditional Associative Accuracy model</strong> using statistical algorithms, improving processing efficiency by 25%[cite: 11].</li>
+  <li>Performed statistical analyses on 15+ behavioral experiments using <strong>Pandas, NumPy, and R</strong> to refine predictive accuracy by up to 40%[cite: 12].</li>
+  <li>Executed probabilistic source-memory modeling to analyze human cognitive processes and recognition tasks[cite: 13].</li>
 </ul>
 
 <h2>🚀 High-Impact Projects</h2>
 
 <h3>NBA Analysis Model 🏀</h3>
-[cite_start]<p>An end-to-end player points predictor using <strong>LightGBM</strong> that ingests multi-season game logs via <code>nba_api</code>[cite: 22].</p>
+<p>An end-to-end player points predictor using <strong>LightGBM</strong> that ingests multi-season game logs via <code>nba_api</code>[cite: 22].</p>
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"/>
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
 </p>
 <ul>
-  [cite_start]<li>Achieved MAE 1.65/R2 0.85 by engineering 35 leakage-safe rolling features[cite: 22].</li>
-  [cite_start]<li>Deployed a production API serving real-time JSON responses with CORS enabling roster-based team totals[cite: 23].</li>
+  <li>Achieved MAE 1.65/R2 0.85 by engineering 35 leakage-safe rolling features[cite: 22].</li>
+  <li>Deployed a production API serving real-time JSON responses with CORS enabling roster-based team totals[cite: 23].</li>
 </ul>
 
 <h3>RiseApp - Native iOS Productivity 📱</h3>
-[cite_start]<p>A local-first productivity ecosystem using <strong>SwiftUI and SwiftData</strong> with zero-latency state synchronization[cite: 25].</p>
+<p>A local-first productivity ecosystem using <strong>SwiftUI and SwiftData</strong> with zero-latency state synchronization[cite: 25].</p>
 <p>
   <img src="https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white"/>
   <img src="https://img.shields.io/badge/Combine-FF6F00?style=for-the-badge&logo=framework&logoColor=white"/>
   <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=apple&logoColor=white"/>
 </p>
 <ul>
-  [cite_start]<li>Architected a persistent relational database schema managing complex dependencies for 66-day habit formation cycles[cite: 25].</li>
-  [cite_start]<li>Implemented <strong>Live Activities</strong> and Home Screen dashboards using WidgetKit and ActivityKit via shared App Group containers[cite: 26].</li>
+  <li>Architected a persistent relational database schema managing complex dependencies for 66-day habit formation cycles[cite: 25].</li>
+  <li>Implemented <strong>Live Activities</strong> and Home Screen dashboards using WidgetKit and ActivityKit via shared App Group containers[cite: 26].</li>
 </ul>
 
 <h3>Algorithm Visualizer & Data Structures 💻</h3>
-[cite_start]<p>A full-stack platform using Node.js and RESTful APIs to visualize core CS concepts[cite: 30].</p>
+<p>A full-stack platform using Node.js and RESTful APIs to visualize core CS concepts[cite: 30].</p>
 <ul>
-  [cite_start]<li>Built a multi-language code editor supporting Java and Python for real-time problem solving[cite: 31].</li>
-  [cite_start]<li>Improved code reusability by 40% through a modular front-end component design[cite: 32].</li>
+  <li>Built a multi-language code editor supporting Java and Python for real-time problem solving[cite: 31].</li>
+  <li>Improved code reusability by 40% through a modular front-end component design[cite: 32].</li>
 </ul>
 
 <h2>🛠️ Technical Stack</h2>
